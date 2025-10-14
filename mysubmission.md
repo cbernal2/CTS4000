@@ -112,7 +112,96 @@
 
 <p>Speaking of, let’s take a break from reading digital stories and examine the most efficient format of digital storytelling, videos. Researchers have concluded that <a href="https://www.oneday.com/blog/why-video-is-more-powerful-than-text#:~:text=Text%20Loses%20the%20Video%20vs.&text=To%20that%20point%2C%20researchers%20have,it%20far%20faster%20than%20text." target="_blank">the human brain processes visuals 60,000</a> times faster than text. Telling stories through 'moving pictures’ engages all senses—your eyes, mind, and heart. This creates a powerful and immersive story that is incredibly effective in driving engagement; this is why video storytelling is an effective marketing tactic that businesses use to reach their consumers. </p>
 
-[!Click here to watch "Brothers Confess to Murdering Parents -- But Are They Innocent? (The Menendez Brothers" by 'The Inforgraphic Show' on YouTube](infographicshow.png)](https://www.youtube.com/watch?v=Pffa1JO-RDs)
+<br>
 
+[![Click here to watch "Brothers Confess to Murdering Parents -- But Are They Innocent? (The Menendez Brothers" by 'The Inforgraphic Show' on YouTube](infographicshow.png)](https://www.youtube.com/watch?v=Pffa1JO-RDs)
 
+<br>
+
+<p>The video in question is one done by <a href="https://www.youtube.com/@TheInfographicsShow" target="_blank">‘The Infographic Show’</a> on YouTube, titled <a href="https://www.youtube.com/watch?v=Pffa1JO-RDs" target="_blank">Brothers Confess to Murdering Parents</a>—But Are They Innocent? (The Menendez Brothers). This visual explanation of the Menendez murders is 11 minutes and 40 seconds long, which is enticing to audiences, such as myself, who have a shorter attention span and/or who simply want to understand the gist without reading about it.<a href="https://wistia.com/learn/marketing/optimal-video-length" target="_blank"> Marketing research</a> shows that the shorter a video is, the stronger it is at driving engagement (Fig. 3.1). Additionally, the digital elements behind a video, movie, documentary, ad, etc. that make videos captivating include camera angles, soundtracks, characters, color, and such things that appeal to our visual and auditory senses. 
+</p>
+<br>
+
+<div align="center">
+  
+![Average Engagement vs. Video Length data chart](fig3.1)
+
+*<b>Fig 3.1.</b>Average Engagement vs. Video Length. Photo from https://wistia.com/learn/marketing/optimal-video-length).*
+
+</div> 
+
+<p>As mentioned further in this project, individuals with impairments and/or disabilities might find a digital video story either helpful or unhelpful. Although a short video like this is great for a quick rundown of the premise of the story, it may be too fast-paced for people, like me, with <a href="https://www.webmd.com/brain/auditory-processing-disorder" target="_blank">auditory processing disorders</a> who find it difficult to retain swift information. Luckily, most platforms like YouTube provide closed captioning and transcripts of the audio so that individuals who wish can watch the video and follow along with the words. It is also essential to productive digital storytelling that designers consider a variety of audiences and accessibility.</p>
+
+<p>Another digital element I found effective was the use of a human voice for narration. A few videos, especially instructional videos, are recorded using AI-generated voices. Similar to the type of voice we hear from Google Home, Alexa, or Siri. Although using an AI voice would be quicker and would potentially cost less money, the choice of recording with a real person is imperative to the engagement and connection with the audience. Since a human is processing and relaying information to the viewers, they have the power to add emphasis and modify the tone of the video. It is easier for a viewer to relate and remain interested in the video if it seems like someone is simply entertaining them by telling a story. </p>
+
+<p>Additionally, by using a strong, unique voice such as this narrator, viewers will be able to identify and create an association with ‘The Infographic Show’. Watchers may hear the audio of a video and think, “Hey! I know that voice. That’s ‘The Infographic Show’.”</p>
+
+<p> This channel succeeds in creating a fast-paced explanation of the Menendez murders using <a href="https://www.adobe.com/products/photoshop/isometric-art.html#:~:text=Isometric%20art%20is%20a%20drawing,illusion%20of%20a%203D%20perspective." target="_blank">isometric digital art</a> to create a visual narrative of the case. The use of such a generic art style (Fig. 3.2 and 3.3) is effective in simply indicating the characters, roles, settings, and relationships revolving around this story. </p>
+
+<br> 
+<div align="center">
+  
+!['3D and Realistic Isometric Illustrations'](fig3.2)
+
+*<b>Fig 3.1.</b>3D and Realistic Isometric Illustrations. Photo from https://www.behance.net/gallery/80528501/Cartoon-Low-Poly-American-Dream-City-Pack).*
+
+</div> 
+
+<br> 
+<div align="center">
+  
+!['Futuristic and Material Isometric Illustrations'](fig3.3)
+
+*<b>Fig 3.1.</b>Futuristic and Material Isometric Illustrations. Photo from https://www.behance.net/gallery/68034117/Rocketboy-2018/modules/397788233).*
+
+</div> 
+
+<br>
+<p>On the contrasting side, these infographic-style cartoons have a limit to how much detail and accuracy can be conveyed. For example, in this screenshot (Fig.3.4), with the help of subtitles, we know we are in the midst of the Menendez brothers committing their second killing. The cartoon figures are always shown with smiling faces because of the art style that prevents the demonstration of accurate emotions the brothers and their mother would have been experiencing, like horror, shock, and menace. </p>
+
+<br> 
+
+<div align="center">
+  
+![Screencap (minute 3:06s) from 'Brothers Confess to Murdering Parents' by the Infographic Show](fig3.4)
+
+*<b>Fig 3.4.</b>Brothers Confess to Murdering Parents - But Are They Innocent? (The Menendez Brothers) by The Infographic Show. Source https://www.youtube.com/watch?v=Pffa1JO-RDs (minute 3:06s) ).*
+
+</div> 
+
+<br> 
+<p>This design choice becomes problematic when narrating a story with a topic of such weight and severity. Although these characters are meant to simply represent a role, they are misleading and can create an atmosphere of lightheartedness, which is not an accurate representation of the real story at hand. However, the genericness of each character can prevent certain biases because aspects such as ethnicity and sexuality cannot be assumed, and, therefore, preconceived notions are avoided. Effective digital storytelling calls for finding the balance between too much and not enough detail.</p>
+
+<p>Similarly, another element ‘The Infographic Show,’ utilizes, is adding speech and thought bubbles to their characters. This is effective in the same way as highlighting or bolding a particular word in a text can indicate its importance. Speech bubbles are signals of a significant conversation between people or provide the audience with a general idea of what was said. However, this too can harm the semblance of this case. This screenshot (Fig. 3.5) depicts a young Menendez brother playing at the park. The speech bubble says, “Does your dad hit you all the time, too?” This extremely childish depiction of a child blatantly expressing concerns about domestic abuse is satirically inaccurate to the real trauma the brothers endured as children. While this digital element is effective in adding context to images, it might be utilized better to reflect a more probable scenario. </p>
+
+<div align="center">
+  
+![Screencap (minute 9:57s) from 'Brothers Confess to Murdering Parents' by the Infographic Show](fig3.5)
+
+*<b>Fig 3.5.</b>Brothers Confess to Murdering Parents - But Are They Innocent? (The Menendez Brothers) by The Infographic Show. Source https://www.youtube.com/watch?v=Pffa1JO-RDs (minute 9:57s) ).*
+
+</div> 
+
+<br> 
+<hr>
+<div align="center">
+<h2><i>Back to Basics</i></h2>
+</div>
+
+<p>My favored method of storytelling is an article, a book, a map, a memoir, or any means of literature. Therefore, in my biased opinion,<a href="https://people.com/who-were-jose-kitty-menendez-brothers-parents-8713203" target="_blank"> this online article from <i>People’s Magazine</i></a> is presented in the most effective form of a digital story overall, and, in comparison to the other two. Contrasting to the digital story above, this piece provides a further developed summary of the Menendez murders by providing insights into who Jose and Kitty Menendez were. An article like this is successful because it follows the applicable 7 elements of digital storytelling as developed and promulgated by <a href="https://www.storycenter.org/" target="_blank">The Center for Digital Storytelling (CDS)</a> in Berkeley, California. (Fig. 4.1)</p>
+
+<div align="center">
+  
+![The 7 Elements of Digital Storytelling](fig4.1)
+
+*<b>Fig 4.1.</b> The Seven Elements of Digital Storytelling. Photo from https://www.pearltrees.com/clear_focus_solutions/storytelling-for-leaders/id14280124/item146812622).*
+
+</div> 
+
+<br>
+
+<p>Personally, I prefer fictional horror stories, and I hardly find myself being entertained by true crimes. However, this case has intrigued me since I came across it some years ago. Thanks to the newest installment of Ryan Murphy and Ian Brennan’s newest installment of <a href="https://www.netflix.com/tudum/articles/monster-season-2-the-lyle-and-erik-menendez-story" target="_blank">“Monster” anthology on Netflix,</a> the Menendez murder story has reclaimed its spotlight for <a href="https://www.urbandictionary.com/define.php?term=murderinos" target="_blank">'murderinos’</a> everywhere and instantly gave me inspiration for this assignment. Further, I wasn’t patient enough to finish the series, so I googled my queries, such as who exactly were José and Kitty Menendez? This inquiry is the ‘dramatic question’ to which #1 and #2 on the elements list refer, the “key question that keeps the viewer’s attention and will be answered by the end of the story.” Epistemic curiosity leads us to endless questioning, such as why or how the Menendez parents became so corrupt, what kind of business José was in, and what specifically their mother did to inflict her fate. </p>
+
+[![Click here to watch the official 'The Menendez Brothers' Netflix Trailer (infographicshow.png)]([![Click here to watch "Brothers Confess to Murdering Parents -- But Are They Innocent? (The Menendez Brothers" by 'The Inforgraphic Show' on YouTube](infographicshow.png)](https://www.youtube.com/watch?v=Pffa1JO-RDs)
+)
 
