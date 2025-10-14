@@ -31,7 +31,7 @@
 <div align="center">
   
 <a href="https://www.biography.com/crime/menendez-brothers-murder-case-facts" target="_blank">
-  <button>To dive deeper into this case, click here!</button>
+  <button>To dive deeper into this case, click here! [3]</button>
 </a>
 
 <br>
@@ -61,9 +61,9 @@
 
 <br>
 
-<p>However, the use of digital elements for storytelling must be approached with balance to be effective. The first digital story I will be examining is titled ‘The Menendez Brothers’<a href="https://prezi.com/p/w4nux_gebzwq/the-menendez-brothers/" target="_blank">[3]</a>, an interactive presentation created by McKenzie Martell on Prezi. Martell’s project covers the premise of the murders. Outlining who the Menendez family was, their aristocratic lifestyle, the crimes, and the psychological implications leading to the fatal ending. 
+<p>However, the use of digital elements for storytelling must be approached with balance to be effective. The first digital story I will be examining is titled ‘The Menendez Brothers’<a href="https://prezi.com/p/w4nux_gebzwq/the-menendez-brothers/" target="_blank">[4]</a>, an interactive presentation created by McKenzie Martell on Prezi. Martell’s project covers the premise of the murders. Outlining who the Menendez family was, their aristocratic lifestyle, the crimes, and the psychological implications leading to the fatal ending. 
 
-<p>This article from Cultural Detour<a href="https://www.culturaldetour.eu/en/learn/articles/2023083015560070/10-dos-and-don-ts-of-digital-storytelling-in-cultural-heritage/" target="_blank">[4]</a> outlines 10 do's and don'ts of digital storytelling in cultural heritage. They encourage storytellers to <u>be specific</u>, <u>be evocative</u>, <u>be specific</u>, and to <u>know your target audience.</u></p>
+<p>This article from Cultural Detour<a href="https://www.culturaldetour.eu/en/learn/articles/2023083015560070/10-dos-and-don-ts-of-digital-storytelling-in-cultural-heritage/" target="_blank">[5]</a> outlines 10 do's and don'ts of digital storytelling in cultural heritage. They encourage storytellers to <u>be specific</u>, <u>be evocative</u>, <u>be specific</u>, and to <u>know your target audience.</u></p>
 
 <p>This project does justice in getting the very basic facts of this story down. However, it is disingenuous as the aesthetic elements do not reflect the weight and realness of this story. On the first slide, we are met with a very blue and basic title page. The image used for the title is a silhouette of a head with gears in place of the brain (Fig. 2.1), signifying that there are ideas, perspectives, and critical thinking being done. This is a very generic template offered by Prezi that could have been adjusted to portray a correlation to the Menendez case, such as a picture of the family or the brothers alone. Additionally, the content of the Prezi is a summary of stated facts; no opinion or personal input is being shown; therefore, the image of the working gears is unrelated.</p>
 
@@ -71,7 +71,7 @@
   
 ![Prezi Template](fig2.1)
 
-*<b>Fig 2.1.</b>'My Mind Animated' Prezi Template [5].*
+*<b>Fig 2.1.</b>'My Mind Animated' Prezi Template [6].*
 
 </div> 
 
@@ -81,7 +81,7 @@
 
 <p>Many aspects of this digital story are successful in the idea of consistency; however, consistency is not always compelling. In the discussion of word font, it is wise to apply the same font(s) throughout a piece to create a sense of order and organization, especially in a visual presentation. Using various fonts is encouraged to determine the tone and readability of a story. Martell’s Prezi uses the same bold, narrow, capitalized font for titles, dates, and bodies of text throughout the entire presentation. It is always best to utilize different, readable fonts to create a distinction between the title, heading, and text. This “small” detail immensely affects the perceived tone of a story. In this case, the font suggests the feeling of a rushed and congested story. </p>
 
-<p>This visually unappealing design choice makes it difficult to read and comprehend information as it blends the entirety of the text. If this slideshow were to be presented in a classroom, it would be extremely difficult for readers in the back rows. Font choice goes a long way in creating the atmosphere of a presentation. <a href="https://smallbusiness.chron.com/importance-font-presentation-73096.html" target="_blank"> [6] </a> </p>
+<p>This visually unappealing design choice makes it difficult to read and comprehend information as it blends the entirety of the text. If this slideshow were to be presented in a classroom, it would be extremely difficult for readers in the back rows. Font choice goes a long way in creating the atmosphere of a presentation. <a href="https://smallbusiness.chron.com/importance-font-presentation-73096.html" target="_blank"> [7] </a> </p>
 
 <br>
 
@@ -89,19 +89,19 @@
   
 !["I will always find you" in two different fonts](fig2.2)
 
-*<b>Fig 2.2.</b>Why Fonts Matter. [7]).*
+*<b>Fig 2.2.</b>Why Fonts Matter. [8]).*
 
 </div> 
 
 <p>Additionally, the quantity of text in certain slides adds to the predicament of reading this story. From my experience with Prezi, the section bubbles can help organize text. However, Prezi allows the creator to have control over the negative space around section bubbles as well. This project fails to exercise artistic elements of design as it strictly uses one of the templates Prezi presents and remains within the parameters it gives you. This led to their text being small, squished together, and/or “spilling” outside the section bubble. A readable alternative would have been to separate the body into smaller sections. </p>
 
-<p>Lastly, still concerning utilizing negative, or white space<a href="https://www.linkedin.com/pulse/designer-secrets-3-tips-using-white-space-your-presentation-funce/" target="_blank"> [8]</a> (Fig. 2.3), the images Martell used in the story are fairly small, making it difficult to view even on a close-up computer screen. Strategically placing photos in pieces is extremely effective in creating digital stories, as it allows audiences to visualize your story. In this case, Martell uses images of the Menendez family to give a face to the information. However, it seems more likely that the pictures are stuck there as a simple space filler or evidence.</p>
+<p>Lastly, still concerning utilizing negative, or white space<a href="https://www.linkedin.com/pulse/designer-secrets-3-tips-using-white-space-your-presentation-funce/" target="_blank"> [9]</a> (Fig. 2.3), the images Martell used in the story are fairly small, making it difficult to view even on a close-up computer screen. Strategically placing photos in pieces is extremely effective in creating digital stories, as it allows audiences to visualize your story. In this case, Martell uses images of the Menendez family to give a face to the information. However, it seems more likely that the pictures are stuck there as a simple space filler or evidence.</p>
 
 <div align="center">
   
 !['White Space in Graphic Design' Infographic](fig2.3)
 
-*<b>Fig 2.3.</b>White Space in Graphic Design. [9].*
+*<b>Fig 2.3.</b>White Space in Graphic Design. [10].*
 
 </div> 
 
@@ -117,15 +117,15 @@
 
 <br>
 
-<p>Speaking of, let’s take a break from reading digital stories and examine the most efficient format of digital storytelling, videos. Researchers have concluded that the human brain processes visuals 60,000 times faster than text <a href="https://www.oneday.com/blog/why-video-is-more-powerful-than-text#:~:text=Text%20Loses%20the%20Video%20vs.&text=To%20that%20point%2C%20researchers%20have,it%20far%20faster%20than%20text." target="_blank">[10]</a> Telling stories through 'moving pictures’ engages all senses—your eyes, mind, and heart. This creates a powerful and immersive story that is incredibly effective in driving engagement; this is why video storytelling is an effective marketing tactic that businesses use to reach their consumers. </p>
+<p>Speaking of, let’s take a break from reading digital stories and examine the most efficient format of digital storytelling, videos. Researchers have concluded that the human brain processes visuals 60,000 times faster than text <a href="https://www.oneday.com/blog/why-video-is-more-powerful-than-text#:~:text=Text%20Loses%20the%20Video%20vs.&text=To%20that%20point%2C%20researchers%20have,it%20far%20faster%20than%20text." target="_blank">[11]</a> Telling stories through 'moving pictures’ engages all senses—your eyes, mind, and heart. This creates a powerful and immersive story that is incredibly effective in driving engagement; this is why video storytelling is an effective marketing tactic that businesses use to reach their consumers. </p>
 
 <br>
 
-[![Click here to watch "Brothers Confess to Murdering Parents -- But Are They Innocent? (The Menendez Brothers" by 'The Inforgraphic Show' on YouTube](infographicshow.png)](https://www.youtube.com/watch?v=Pffa1JO-RDs)
+[![Click here to watch "Brothers Confess to Murdering Parents -- But Are They Innocent? (The Menendez Brothers" by 'The Inforgraphic Show' on YouTube [12]](infographicshow.png)](https://www.youtube.com/watch?v=Pffa1JO-RDs)
 
 <br>
 
-<p>The video in question is one done by‘The Infographic Show’ <a href="https://www.youtube.com/@TheInfographicsShow" target="_blank">[11]</a> on YouTube, titled Brothers Confess to Murdering Parents—But Are They Innocent? (The Menendez Brothers)<a href="https://www.youtube.com/watch?v=Pffa1JO-RDs" target="_blank">[12]. This visual explanation of the Menendez murders is 11 minutes and 40 seconds long, which is enticing to audiences, such as myself, who have a shorter attention span and/or who simply want to understand the gist without reading about it. Marketing research<a href="https://wistia.com/learn/marketing/optimal-video-length" target="_blank"> [13]</a>shows that the shorter a video is, the stronger it is at driving engagement (Fig. 3.1). Additionally, the digital elements behind a video, movie, documentary, ad, etc. that make videos captivating include camera angles, soundtracks, characters, color, and such things that appeal to our visual and auditory senses. 
+<p>The video in question is one done by‘The Infographic Show’ <a href="https://www.youtube.com/@TheInfographicsShow" target="_blank">[13]</a> on YouTube, titled Brothers Confess to Murdering Parents—But Are They Innocent? (The Menendez Brothers)<a href="https://www.youtube.com/watch?v=Pffa1JO-RDs" target="_blank">[12]. This visual explanation of the Menendez murders is 11 minutes and 40 seconds long, which is enticing to audiences, such as myself, who have a shorter attention span and/or who simply want to understand the gist without reading about it. Marketing research<a href="https://wistia.com/learn/marketing/optimal-video-length" target="_blank"> [14]</a>shows that the shorter a video is, the stronger it is at driving engagement (Fig. 3.1). Additionally, the digital elements behind a video, movie, documentary, ad, etc. that make videos captivating include camera angles, soundtracks, characters, color, and such things that appeal to our visual and auditory senses. 
 </p>
 <br>
 
@@ -133,24 +133,24 @@
   
 ![Average Engagement vs. Video Length data chart](fig3.1)
 
-*<b>Fig 3.1.</b>Average Engagement vs. Video Length.[13]).*
+*<b>Fig 3.1.</b>Average Engagement vs. Video Length.[14]).*
 
 </div> 
 
-<p>As mentioned further in this project, individuals with impairments and/or disabilities might find a digital video story either helpful or unhelpful. Although a short video like this is great for a quick rundown of the premise of the story, it may be too fast-paced for people, like me, with auditory processing disorders<a href="https://www.webmd.com/brain/auditory-processing-disorder" target="_blank">[14]</a> who find it difficult to retain swift information. Luckily, most platforms like YouTube provide closed captioning and transcripts of the audio so that individuals who wish can watch the video and follow along with the words. It is also essential to productive digital storytelling that designers consider a variety of audiences and accessibility.</p>
+<p>As mentioned further in this project, individuals with impairments and/or disabilities might find a digital video story either helpful or unhelpful. Although a short video like this is great for a quick rundown of the premise of the story, it may be too fast-paced for people, like me, with auditory processing disorders<a href="https://www.webmd.com/brain/auditory-processing-disorder" target="_blank">[15]</a> who find it difficult to retain swift information. Luckily, most platforms like YouTube provide closed captioning and transcripts of the audio so that individuals who wish can watch the video and follow along with the words. It is also essential to productive digital storytelling that designers consider a variety of audiences and accessibility.</p>
 
 <p>Another digital element I found effective was the use of a human voice for narration. A few videos, especially instructional videos, are recorded using AI-generated voices. Similar to the type of voice we hear from Google Home, Alexa, or Siri. Although using an AI voice would be quicker and would potentially cost less money, the choice of recording with a real person is imperative to the engagement and connection with the audience. Since a human is processing and relaying information to the viewers, they have the power to add emphasis and modify the tone of the video. It is easier for a viewer to relate and remain interested in the video if it seems like someone is simply entertaining them by telling a story. </p>
 
 <p>Additionally, by using a strong, unique voice such as this narrator, viewers will be able to identify and create an association with ‘The Infographic Show’. Watchers may hear the audio of a video and think, “Hey! I know that voice. That’s ‘The Infographic Show’.”</p>
 
-<p> This channel succeeds in creating a fast-paced explanation of the Menendez murders using isometric digital art<a href="https://www.adobe.com/products/photoshop/isometric-art.html#:~:text=Isometric%20art%20is%20a%20drawing,illusion%20of%20a%203D%20perspective." target="_blank">[15]</a> to create a visual narrative of the case. The use of such a generic art style (Fig. 3.2 and 3.3) is effective in simply indicating the characters, roles, settings, and relationships revolving around this story. </p>
+<p> This channel succeeds in creating a fast-paced explanation of the Menendez murders using isometric digital art<a href="https://www.adobe.com/products/photoshop/isometric-art.html#:~:text=Isometric%20art%20is%20a%20drawing,illusion%20of%20a%203D%20perspective." target="_blank">[16]</a> to create a visual narrative of the case. The use of such a generic art style (Fig. 3.2 and 3.3) is effective in simply indicating the characters, roles, settings, and relationships revolving around this story. </p>
 
 <br> 
 <div align="center">
   
 !['3D and Realistic Isometric Illustrations'](fig3.2)
 
-*<b>Fig 3.1.</b>3D and Realistic Isometric Illustrations. [16]).*
+*<b>Fig 3.1.</b>3D and Realistic Isometric Illustrations. [17]).*
 
 </div> 
 
@@ -179,7 +179,7 @@
 <br> 
 <p>This design choice becomes problematic when narrating a story with a topic of such weight and severity. Although these characters are meant to simply represent a role, they are misleading and can create an atmosphere of lightheartedness, which is not an accurate representation of the real story at hand. However, the genericness of each character can prevent certain biases because aspects such as ethnicity and sexuality cannot be assumed, and, therefore, preconceived notions are avoided. Effective digital storytelling calls for finding the balance between too much and not enough detail.</p>
 
-<p>Similarly, another element ‘The Infographic Show,’ utilizes, is adding speech and thought bubbles to their characters. This is effective in the same way as highlighting or bolding a particular word in a text can indicate its importance. Speech bubbles are signals of a significant conversation between people or provide the audience with a general idea of what was said. However, this too can harm the semblance of this case. This screenshot (Fig. 3.5) depicts a young Menendez brother playing at the park. The speech bubble says, “Does your dad hit you all the time, too?” This extremely childish depiction of a child blatantly expressing concerns about domestic abuse is satirically inaccurate to the real trauma the brothers endured as children. While this digital element is effective in adding context to images, it might be utilized better to reflect a more probable scenario. </p>
+<p>Similarly, another element, ‘The Infographic Show,’ utilizes, is adding speech and thought bubbles to their characters. This is effective in the same way as highlighting or bolding a particular word in a text can indicate its importance. Speech bubbles are signals of a significant conversation between people or provide the audience with a general idea of what was said. However, this too can harm the semblance of this case. This screenshot (Fig. 3.5) depicts a young Menendez brother playing at the park. The speech bubble says, “Does your dad hit you all the time, too?” This extremely childish depiction of a child blatantly expressing concerns about domestic abuse is satirically inaccurate to the real trauma the brothers endured as children. While this digital element is effective in adding context to images, it might be utilized better to reflect a more probable scenario. </p>
 
 <div align="center">
   
@@ -195,7 +195,7 @@
 <h2><i>Back to Basics</i></h2>
 </div>
 
-<p>My favored method of storytelling is an article, a book, a map, a memoir, or any means of literature. Therefore, in my biased opinion, this online article from <i>People’s Magazine</i><a  href="https://people.com/who-were-jose-kitty-menendez-brothers-parents-8713203" target="_blank">[18]</a> is presented in the most effective form of a digital story overall, and, in comparison to the other two. Contrasting to the digital story above, this piece provides a further developed summary of the Menendez murders by providing insights into who Jose and Kitty Menendez were. An article like this is successful because it follows the applicable 7 elements of digital storytelling as developed and promulgated by The Center for Digital Storytelling (CDS) <a href="https://www.storycenter.org/" target="_blank">[19]</a> in Berkeley, California. (Fig. 4.1)</p>
+<p>My favored method of storytelling is an article, a book, a map, a memoir, or any means of literature. Therefore, in my biased opinion, this online article from <i>People’s Magazine</i><a  href="https://people.com/who-were-jose-kitty-menendez-brothers-parents-8713203" target="_blank">[19]</a> is presented in the most effective form of a digital story overall, and, in comparison to the other two. Contrasting to the digital story above, this piece provides a further developed summary of the Menendez murders by providing insights into who Jose and Kitty Menendez were. An article like this is successful because it follows the applicable 7 elements of digital storytelling as developed and promulgated by The Center for Digital Storytelling (CDS) <a href="https://www.storycenter.org/" target="_blank">[20]</a> in Berkeley, California. (Fig. 4.1)</p>
 
 <div align="center">
   
@@ -240,28 +240,78 @@
 ### References
 
 1. CBS News. “Menendez Brothers: Inside the Notorious Case | 48 Hours.” CBS News. Accessed October 14, 2025. https://www.cbsnews.com/news/menendez-brothers-inside-the-notorious-case-48-hours/
+.
+
 2. Menendez Murders. “Gallery.” Menendez Murders. Accessed October 14, 2025. http://menendezmurders.com/gallery
+.
+
 3. Biography. “Menendez Brothers Murder Case Facts.” Biography. Accessed October 14, 2025. https://www.biography.com/crime/menendez-brothers-murder-case-facts
+.
+
 4. Prezi. “The Menendez Brothers.” Prezi. Accessed October 14, 2025. https://prezi.com/p/w4nux_gebzwq/the-menendez-brothers/
+.
+
 5. Cultural Detour. “10 Dos and Don’ts of Digital Storytelling in Cultural Heritage.” Cultural Detour, August 30, 2023. https://www.culturaldetour.eu/en/learn/articles/2023083015560070/10-dos-and-don-ts-of-digital-storytelling-in-cultural-heritage/
+.
+
 6. Prezi. “My Mind Animated.” Prezi. Accessed October 14, 2025. https://prezi.com/p/mgpxyqydu51d/my-mind-animated/
+.
+
 7. Chron. “The Importance of Font in Presentations.” Chron Small Business. Accessed October 14, 2025. https://smallbusiness.chron.com/importance-font-presentation73096.html
+.
+
 8. PMD Group. “Why Font Matters.” PMD Group. Accessed October 14, 2025. https://www.pmdgrp.com/why-font-matters/
+.
+
 9. LinkedIn. “Designer Secrets: 3 Tips for Using White Space in Your Presentation.” LinkedIn. Accessed October 14, 2025. https://www.linkedin.com/pulse/designer-secrets-3-tips-using-white-space-your-presentation-funce/
+.
+
 10. Zeka Graphic. “White Space in Graphic Design.” Zeka Graphic. Accessed October 14, 2025. https://www.zekagraphic.com/white-space-in-graphicdesign/#google_vignette
+.
+
 11. OneDay. “Why Video Is More Powerful Than Text.” OneDay. Accessed October 14, 2025. https://www.oneday.com/blog/why-video-is-more-powerful-than-text#:~:text=Text%20Loses%20the%20Video%20vs.&text=To%20that%20point%2C%20researchers%20have,it%20far%20faster%20than%20text
-12. YouTube. “Video.” YouTube. Accessed October 14, 2025. https://www.youtube.com/watch?v=Pffa1JO-RDs
-13. YouTube. “The Infographics Show.” YouTube. Accessed October 14, 2025. https://www.youtube.com/@TheInfographicsShow
-14. Wistia. “Optimal Video Length.” Wistia. Accessed October 14, 2025. https://wistia.com/learn/marketing/optimal-video-length
-15. WebMD. “Auditory Processing Disorder.” WebMD. Accessed October 14, 2025. https://www.webmd.com/brain/auditory-processing-disorder
-16. Adobe. “Isometric Art.” Adobe. Accessed October 14, 2025. https://www.adobe.com/products/photoshop/isometricart.html#:~:text=Isometric%20art%20is%20a%20drawing,illusion%20of%20a%203D%20perspective
-17. Behance. “Cartoon Low Poly American Dream City Pack.” Behance. Accessed October 14, 2025. https://www.behance.net/gallery/80528501/Cartoon-Low-Poly-American-Dream-City-Pack
-18. Behance. “Rocketboy 2018.” Behance. Accessed October 14, 2025. https://www.behance.net/gallery/68034117/Rocketboy-2018/modules/397788233
-19. StoryCenter. “StoryCenter.” StoryCenter. Accessed October 14, 2025. https://www.storycenter.org/
-20. Pearltrees. “Storytelling for Leaders.” Pearltrees. Accessed October 14, 2025. https://www.pearltrees.com/clear_focus_solutions/storytelling-for-leaders/id14280124/item146812622
-21. Netflix Tudum. “Monster Season 2: The Lyle and Erik Menendez Story.” Netflix Tudum. Accessed October 14, 2025. https://www.netflix.com/tudum/articles/monster-season-2-the-lyle-and-erik-menendez-story
-22. MDN Web Docs. “What Are Hyperlinks?” MDN Web Docs. Accessed October 14, 2025. https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_are_hyperlinks
-23. People. “Who Were José & Kitty Menendez, Brothers’ Parents?” People. Accessed October 14, 2025. https://people.com/who-were-jose-kitty-menendez-brothers-parents-8713203
+.
+
+12. Wistia. “Optimal Video Length.” Wistia. Accessed October 14, 2025. https://wistia.com/learn/marketing/optimal-video-length
+.
+
+13. WebMD. “Auditory Processing Disorder.” WebMD. Accessed October 14, 2025. https://www.webmd.com/brain/auditory-processing-disorder
+.
+
+14. Adobe. “Isometric Art.” Adobe. Accessed October 14, 2025. https://www.adobe.com/products/photoshop/isometricart.html#:~:text=Isometric%20art%20is%20a%20drawing,illusion%20of%20a%203D%20perspective
+.
+
+15. Behance. “Cartoon Low Poly American Dream City Pack.” Behance. Accessed October 14, 2025. https://www.behance.net/gallery/80528501/Cartoon-Low-Poly-American-Dream-City-Pack
+.
+
+16. Behance. “Rocketboy 2018.” Behance. Accessed October 14, 2025. https://www.behance.net/gallery/68034117/Rocketboy-2018/modules/397788233
+.
+
+17. StoryCenter. “StoryCenter.” StoryCenter. Accessed October 14, 2025. https://www.storycenter.org/
+.
+
+18. Pearltrees. “Storytelling for Leaders.” Pearltrees. Accessed October 14, 2025. https://www.pearltrees.com/clear_focus_solutions/storytelling-for-leaders/id14280124/item146812622
+.
+
+19. People. “Who Were José & Kitty Menendez, Brothers’ Parents?” People. Accessed October 14, 2025. https://people.com/who-were-jose-kitty-menendez-brothers-parents-8713203
+.
+
+20. Netflix Tudum. “Monster Season 2: The Lyle and Erik Menendez Story.” Netflix Tudum. Accessed October 14, 2025. https://www.netflix.com/tudum/articles/monster-season-2-the-lyle-and-erik-menendez-story
+.
+
+21. Urban Dictionary. “Murderinos.” Urban Dictionary. Accessed October 14, 2025. https://www.urbandictionary.com/define.php?term=murderinos
+.
+
+22. YouTube. “Video.” YouTube. Accessed October 14, 2025. https://www.youtube.com/watch?v=Pffa1JO-RDs
+.
+
+23. MDN Web Docs. “What Are Hyperlinks?” MDN Web Docs. Accessed October 14, 2025. https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_are_hyperlinks
+.
+
 24. LinkedIn. “The Power of Visual Storytelling: Why an Image Speaks 100 Times Stronger.” LinkedIn. Accessed October 14, 2025. https://www.linkedin.com/pulse/power-visual-storytelling-why-image-speaks-100-times-stronger-emam/
+.
+
 25. Imgix. “Beyond Words: The Power of Images in Digital Storytelling.” Imgix. Accessed October 14, 2025. https://www.imgix.com/blog/beyond-words-the-power-of-images-in-digital%20storytelling#:~:text=Weaving%20images%20throughout%20your%20content,message%20and%20appreciate%20your%20story
+.
+
 26. Nieman Reports. “Audio Articles Are Helping News Outlets Gain Loyal Audiences.” Nieman Reports. Accessed October 14, 2025. https://niemanreports.org/audio-articles-are-helping-news-outlets-gain-loyal-audiences/
