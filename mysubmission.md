@@ -105,14 +105,14 @@
 <hr>
 
 <div align="center">
-<h2><i>Moving Pictures/i></h2>
+<h2><i>Moving Pictures</i></h2>
 </div>
 
 <br>
 
 <p>Speaking of, let’s take a break from reading digital stories and examine the most efficient format of digital storytelling, videos. Researchers have concluded that <a href="https://www.oneday.com/blog/why-video-is-more-powerful-than-text#:~:text=Text%20Loses%20the%20Video%20vs.&text=To%20that%20point%2C%20researchers%20have,it%20far%20faster%20than%20text." target="_blank">the human brain processes visuals 60,000</a> times faster than text. Telling stories through 'moving pictures’ engages all senses—your eyes, mind, and heart. This creates a powerful and immersive story that is incredibly effective in driving engagement; this is why video storytelling is an effective marketing tactic that businesses use to reach their consumers. </p>
 
-[!Click here to watch "Brothers Confess to Murdering Parents -- But Are They Innocent? (The Menendez Brothers" by 'The Inforgraphic Show' on YouTube]
+[!Click here to watch "Brothers Confess to Murdering Parents -- But Are They Innocent? (The Menendez Brothers" by 'The Inforgraphic Show' on YouTube](infographicshow.png)](https://www.youtube.com/watch?v=Pffa1JO-RDs)
 
 
 
