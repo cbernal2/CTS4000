@@ -2,7 +2,7 @@
 #### Content Warning: Mentioned sexual abuse, domestic violence, and death of a parent. Readers who may be sensitive to these elements are advised to take note. 
 
 <div align="center">
-<p><sub><small><b>By:</b> Charly Bernal · <b>Date:</b> Sep 27, 2024  · <i>CTRL+ALT_DH:</i> Issue 02 ·  12 min read</small></sub></p>
+<p><sub><small><b>By:</b> Charly Bernal · <b>Date:</b> Sep 27, 2024  · <i>CTRL+ALT_DH:</i> Issue 02 ·  15 min read</small></sub></p>
 </div>
 
 ## Abstract 
@@ -22,7 +22,7 @@
   
 ![The Menendez Family (1988)](fig1.1)
 
-*<b>Fig 1.1:</b> The Menendez Family (1988).[2]*
+*<b>Fig 1.1:</b> The Menendez Family (1988). [2]*
 
 </div> 
 
@@ -89,7 +89,7 @@
   
 !["I will always find you" in two different fonts](fig2.2)
 
-*<b>Fig 2.2.</b>Why Fonts Matter. [8]).*
+*<b>Fig 2.2.</b>Why Fonts Matter. [8].*
 
 </div> 
 
@@ -133,7 +133,7 @@
   
 ![Average Engagement vs. Video Length data chart](fig3.1)
 
-*<b>Fig 3.1.</b>Average Engagement vs. Video Length.[13]).*
+*<b>Fig 3.1.</b>Average Engagement vs. Video Length.[13].*
 
 </div> 
 
@@ -150,7 +150,7 @@
   
 !['3D and Realistic Isometric Illustrations'](fig3.2)
 
-*<b>Fig 3.2.</b>3D and Realistic Isometric Illustrations. [15]).*
+*<b>Fig 3.2.</b> 3D and Realistic Isometric Illustrations. [15].*
 
 </div> 
 
@@ -159,7 +159,7 @@
   
 !['Futuristic and Material Isometric Illustrations'](fig3.3)
 
-*<b>Fig 3.3.</b>Futuristic and Material Isometric Illustrations. [15]).*
+*<b>Fig 3.3.</b>Futuristic and Material Isometric Illustrations. [15].*
 
 </div> 
 
@@ -172,7 +172,7 @@
   
 ![Screencap (minute 3:06s) from 'Brothers Confess to Murdering Parents' by the Infographic Show](fig3.4)
 
-*<b>Fig 3.4.</b>Brothers Confess to Murdering Parents - But Are They Innocent? (The Menendez Brothers) by The Infographic Show.(minute 3:06s) [12] ).*
+*<b>Fig 3.4.</b>Brothers Confess to Murdering Parents - But Are They Innocent? (The Menendez Brothers) by The Infographic Show.(minute 3:06s) [12] .*
 
 </div> 
 
@@ -181,11 +181,13 @@
 
 <p>Similarly, another element, ‘The Infographic Show,’ utilizes, is adding speech and thought bubbles to their characters. This is effective in the same way as highlighting or bolding a particular word in a text can indicate its importance. Speech bubbles are signals of a significant conversation between people or provide the audience with a general idea of what was said. However, this too can harm the semblance of this case. This screenshot (Fig. 3.5) depicts a young Menendez brother playing at the park. The speech bubble says, “Does your dad hit you all the time, too?” This extremely childish depiction of a child blatantly expressing concerns about domestic abuse is satirically inaccurate to the real trauma the brothers endured as children. While this digital element is effective in adding context to images, it might be utilized better to reflect a more probable scenario. </p>
 
+<br>
+
 <div align="center">
   
 ![Screencap (minute 9:57s) from 'Brothers Confess to Murdering Parents' by the Infographic Show](fig3.5)
 
-*<b>Fig 3.5.</b>Brothers Confess to Murdering Parents - But Are They Innocent? (The Menendez Brothers) by The Infographic Show. (minute 9:57s) [12]).*
+*<b>Fig 3.5.</b>Brothers Confess to Murdering Parents - But Are They Innocent? (The Menendez Brothers) by The Infographic Show. (minute 9:57s) [12] .*
 
 </div> 
 
@@ -197,11 +199,13 @@
 
 <p>My favored method of storytelling is an article, a book, a map, a memoir, or any means of literature. Therefore, in my biased opinion, this online article from <i>People’s Magazine</i><a  href="https://people.com/who-were-jose-kitty-menendez-brothers-parents-8713203" target="_blank">[16]</a> is presented in the most effective form of a digital story overall, and, in comparison to the other two. Contrasting to the digital story above, this piece provides a further developed summary of the Menendez murders by providing insights into who Jose and Kitty Menendez were. An article like this is successful because it follows the applicable 7 elements of digital storytelling as developed and promulgated by The Center for Digital Storytelling (CDS) <a href="https://www.storycenter.org/" target="_blank">[17]</a> in Berkeley, California. (Fig. 4.1)</p>
 
+<br>
+
 <div align="center">
   
 ![The 7 Elements of Digital Storytelling](fig4.1)
 
-*<b>Fig 4.1.</b> The Seven Elements of Digital Storytelling. [18]).*
+*<b>Fig 4.1.</b> The Seven Elements of Digital Storytelling. [18] .*
 
 </div> 
 
@@ -209,8 +213,8 @@
 
 <p>Personally, I prefer fictional horror stories, and I hardly find myself being entertained by true crimes. However, this case has intrigued me since I came across it some years ago. Thanks to the newest installment of Ryan Murphy and Ian Brennan’s newest installment of “Monster” anthology on Netflix,<a href="https://www.netflix.com/tudum/articles/monster-season-2-the-lyle-and-erik-menendez-story" target="_blank">[19]</a> the Menendez murder story has reclaimed its spotlight for 'murderinos’<a href="https://www.urbandictionary.com/define.php?term=murderinos" target="_blank">[20]</a> everywhere and instantly gave me inspiration for this assignment. Further, I wasn’t patient enough to finish the series, so I googled my queries, such as who exactly were José and Kitty Menendez? This inquiry is the ‘dramatic question’ to which <b>#1 and #2</b> on the elements list refer, the “key question that keeps the viewer’s attention and will be answered by the end of the story.” Epistemic curiosity leads us to endless questioning, such as why or how the Menendez parents became so corrupt, what kind of business José was in, and what specifically their mother did to inflict her fate. </p>
 
-[![Click here to watch the official 'The Menendez Brothers' Netflix Trailer (infographicshow.png)]([![Click here to watch "Brothers Confess to Murdering Parents -- But Are They Innocent? (The Menendez Brothers" by 'The Inforgraphic Show' on YouTube [21]](menendez.png)](https://www.youtube.com/watch?v=Pffa1JO-RDs)
-)
+[![Click here to watch the official 'The Menendez Brothers' Netflix Trailer](menendez.png)](https://www.youtube.com/watch?v=Pffa1JO-RDs)
+
 
 <br>
 
@@ -222,7 +226,7 @@
   
 ![Lyle and Erik Menendez; Jose and Kitty Menendez](fig4.2)
 
-*<b>Fig 4.2.</b> Lyle and Erik Menendez; Jose and Kitty Menendez. Photo: AP Photo/Nick Ut. [23]).*
+*<b>Fig 4.2.</b> Lyle and Erik Menendez; Jose and Kitty Menendez. Photo: AP Photo/Nick Ut. [23] .*
 
 </div> 
 
