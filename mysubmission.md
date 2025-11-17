@@ -1,4 +1,4 @@
-# <span style="font-family: 'Playfair Display', serif;">What Method of DS Works Best? ; a critique of 3 digital stories</span> 
+# What Method of DS Works Best? ; a critique of 3 digital stories
 #### Content Warning: Mentioned sexual abuse, domestic violence, and death of a parent. Readers who may be sensitive to these elements are advised to take note. 
 
 <div align="center">
@@ -22,7 +22,8 @@
   
 ![The Menendez Family (1988)](fig1.1)
 
-*<b>Fig 1.1:</b> The Menendez Family (1988). [2]*
+*<b>Fig 1.1:</b> The Menendez Family (1988). Photo from http://menendezmurders.com/gallery/* 
+<!-- Submission Review Change: added citation underneath the image -->
 
 </div> 
 
@@ -71,7 +72,8 @@
   
 ![Prezi Template](fig2.1)
 
-*<b>Fig 2.1.</b>'My Mind Animated' Prezi Template [6].*
+*<b>Fig 2.1.</b>'My Mind Animated' Prezi Template from https://prezi.com/p/mgpxyqydu51d/my-mind-animated/[6].*
+<!-- Submission Review Changes: added citation underneath the image --> 
 
 </div> 
 
@@ -89,7 +91,8 @@
   
 !["I will always find you" in two different fonts](fig2.2)
 
-*<b>Fig 2.2.</b>Why Fonts Matter. [8].*
+*<b>Fig 2.2.</b>Why Fonts Matter. Photo from https://www.pmdgrp.com/why-font-matters/ [8].*
+<!-- Submission Review Changes: added citation underneath the image -->
 
 </div> 
 
@@ -101,7 +104,9 @@
   
 !['White Space in Graphic Design' Infographic](fig2.3)
 
-*<b>Fig 2.3.</b>White Space in Graphic Design. [10].*
+*<b>Fig 2.3.</b>White Space in Graphic Design. Photo from https://www.zekagraphic.com/white-space-in-graphic-design/#google_vignette [10].*
+<!-- Submission Review Changes: added citation underneath the image -->
+
 
 </div> 
 
@@ -133,7 +138,8 @@
   
 ![Average Engagement vs. Video Length data chart](fig3.1)
 
-*<b>Fig 3.1.</b>Average Engagement vs. Video Length.[13].*
+*<b>Fig 3.1.</b>Average Engagement vs. Video Length. Photo from https://wistia.com/learn/marketing/optimal-video-length [13].*
+<!-- Submission Review Changes: added citations underneath the image -->
 
 </div> 
 
@@ -150,7 +156,8 @@
   
 !['3D and Realistic Isometric Illustrations'](fig3.2)
 
-*<b>Fig 3.2.</b> 3D and Realistic Isometric Illustrations. [15].*
+*<b>Fig 3.2.</b> 3D and Realistic Isometric Illustrations. Photo from https://www.behance.net/gallery/80528501/Cartoon-Low-Poly-American-Dream-City-Pack [15].*
+<!-- Submission Review Change: added a citation underneath the image --> 
 
 </div> 
 
@@ -159,7 +166,8 @@
   
 !['Futuristic and Material Isometric Illustrations'](fig3.3)
 
-*<b>Fig 3.3.</b>Futuristic and Material Isometric Illustrations. [15].*
+*<b>Fig 3.3.</b>Futuristic and Material Isometric Illustrations. Photo from https://www.behance.net/gallery/68034117/Rocketboy-2018/modules/397788233 [15].*
+<!-- Submission Review Change: added a citation underneath the image -->
 
 </div> 
 
@@ -172,7 +180,8 @@
   
 ![Screencap (minute 3:06s) from 'Brothers Confess to Murdering Parents' by the Infographic Show](fig3.4)
 
-*<b>Fig 3.4.</b>Brothers Confess to Murdering Parents - But Are They Innocent? (The Menendez Brothers) by The Infographic Show.(minute 3:06s) [12] .*
+*<b>Fig 3.4.</b>Brothers Confess to Murdering Parents - But Are They Innocent? (The Menendez Brothers) by The Infographic Show. (minute 3:06s). Source https://www.youtube.com/watch?v=Pffa1JO-RDs [12] .*
+<!-- Submission Review Change: added a citation underneath the image -->
 
 </div> 
 
@@ -187,7 +196,8 @@
   
 ![Screencap (minute 9:57s) from 'Brothers Confess to Murdering Parents' by the Infographic Show](fig3.5)
 
-*<b>Fig 3.5.</b>Brothers Confess to Murdering Parents - But Are They Innocent? (The Menendez Brothers) by The Infographic Show. (minute 9:57s) [12] .*
+*<b>Fig 3.5.</b>Brothers Confess to Murdering Parents - But Are They Innocent? (The Menendez Brothers) by The Infographic Show. (minute 9:57s). Source https://www.youtube.com/watch?v=Pffa1JO-RDs [12] .*
+<!-- Submission Review Change: added a citation underneath the image -->
 
 </div> 
 
@@ -205,7 +215,8 @@
   
 ![The 7 Elements of Digital Storytelling](fig4.1)
 
-*<b>Fig 4.1.</b> The Seven Elements of Digital Storytelling. [18] .*
+*<b>Fig 4.1.</b> The Seven Elements of Digital Storytelling. Photo from https://www.pearltrees.com/clear_focus_solutions/storytelling-for-leaders/id14280124/item146812622 [18] .*
+<!-- Submission Review Change: added a citation underneath the image -->
 
 </div> 
 
@@ -226,7 +237,8 @@
   
 ![Lyle and Erik Menendez; Jose and Kitty Menendez](fig4.2)
 
-*<b>Fig 4.2.</b> Lyle and Erik Menendez; Jose and Kitty Menendez. Photo: AP Photo/Nick Ut. [23] .*
+*<b>Fig 4.2.</b> Lyle and Erik Menendez; Jose and Kitty Menendez. Photo: AP Photo/Nick Ut. Source: https://people.com/who-were-jose-kitty-menendez-brothers-parents-8713203 [23] .*
+<!-- Submission Review Change: added a citation underneath the image --> 
 
 </div> 
 
