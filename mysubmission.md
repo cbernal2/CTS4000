@@ -1,4 +1,4 @@
-# What Method of DS Works Best? ; a critique of 3 digital stories 
+# <span style="font-family: 'Playfair Display', serif;">What Method of DS Works Best? ; a critique of 3 digital stories</span> 
 #### Content Warning: Mentioned sexual abuse, domestic violence, and death of a parent. Readers who may be sensitive to these elements are advised to take note. 
 
 <div align="center">
